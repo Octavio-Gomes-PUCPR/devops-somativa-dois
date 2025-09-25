@@ -1,4 +1,4 @@
-FROM python:3
+FROM ghcr.io/library/python:3
 
 WORKDIR /usr/src/app
 
