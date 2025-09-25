@@ -1,4 +1,4 @@
-FROM ghcr.io/library/python:3
+FROM debian:bullseye-slim
 
 WORKDIR /usr/src/app
 
