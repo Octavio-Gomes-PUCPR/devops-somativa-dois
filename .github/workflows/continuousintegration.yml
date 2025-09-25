@@ -41,7 +41,7 @@ jobs:
           tags: user/app:latest
 
   testes:
-    run-on: ubuntu-latest
+    runs-on: ubuntu-latest
     steps:
       -
         uses: actions/checkout@v4
